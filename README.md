@@ -10,16 +10,16 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-- [X ] Users are able to see a customized app icon and launch screen
-- [ X] Displays at least 5 different movies in a table view
-- [ X] Can tap into detail view of movie with a full description, backdrop image, and title
+- [X] Users are able to see a customized app icon and launch screen
+- [X] Displays at least 5 different movies in a table view
+- [X] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
-- [X ] Unique UI changes, such as background, font/color changes, etc.
+- [X] Unique UI changes, such as background, font/color changes, etc.
 - [ ] User implements a collection view
 - [ ] User implemenets tab bar controller with at least two screens
-- [ X] Your app should work for any screen size and orientation using AutoLayout constraints
+- [X] Your app should work for any screen size and orientation using AutoLayout constraints
 
 The following **additional** features are implemented:
 
@@ -27,6 +27,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/2c891e39eae7446288e6a76d74de1659?sid=8dde0205-1d20-4711-8c34-c226e01a9c4f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Notes
 
