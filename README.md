@@ -1,6 +1,6 @@
 # Project 2 - Flixsterpt1
 
-Submitted by: Giuliana russi
+Submitted by: Giuliana Russi
 
 Flixsterpt1 is a movie browsing app that lets the user look films and find details (title, description, vote average, vote count, a picture, and popularity )on each of the ones they click on.
 
